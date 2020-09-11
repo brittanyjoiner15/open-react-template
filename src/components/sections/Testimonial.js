@@ -62,14 +62,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — As my income has grown, I knew i wanted to give back more to
+                    As my income has grown, I knew i wanted to give my money to worth causes. Only problem was... I didn't know which ones were worthy! I knew that I cared about a specific issue, but wasn't sure how to find a reputable cause that helped with that. Melissa asked me a couple questions, and then quickly returned back with some great options, and I chose my favorite! Now I can give with confidence.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Roman Level</span>
+                  <span className="testimonial-item-name text-color-high">Brittany Joiner</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
+                    <a href="#0">Baton Rouge, LA</a>
                   </span>
                 </div>
               </div>
