@@ -73,7 +73,7 @@ const FeaturesSplit = ({
                   Fill out the intake form
                   </h3>
                 <p className="m-0">
-                  Answer a few questions, and give as much (or as little) detail as you want. Takes less than 5 minutes.
+                  Answer a few questions, and give as much (or as little) detail as you want. Takes less than 5 minutes, and costs nothing.
                   </p>
               </div>
               <div className={
@@ -83,7 +83,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-01.png')}
+                  src='https://trello-attachments.s3.amazonaws.com/5f5adf1ac079cd2374a402b3/5f5af1628db6ac341351d618/dc0617588f4a397bb1b5b6d4463fd605/image.png'
                   alt="Features split 01"
                   width={528}
                   height={396} />
@@ -96,10 +96,10 @@ const FeaturesSplit = ({
                   Step 2
                   </div>
                 <h3 className="mt-0 mb-12">
-                  We do the hard work
+                  I'll do the hard work
                   </h3>
                 <p className="m-0">
-                  We'll do extensive research to find charities that fit your critiera. We'll vet them to make sure they're legit and worthy of your time and money.
+                  Upon reviewing your intake, I'll be in touch with pricing details and ask any follow up questions to help pick the right cause. Then I'll do extensive research to find charities that fit your critiera. I'll then vet those causes to make sure they're legit and worthy of your time and money.
                   </p>
               </div>
               <div className={
@@ -109,7 +109,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
+                  src='https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif'
                   alt="Features split 02"
                   width={528}
                   height={396} />
@@ -135,7 +135,7 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
+                  src='https://trello-attachments.s3.amazonaws.com/5f5adf1ac079cd2374a402b3/5f5af1628db6ac341351d618/174497aff8ad1a7d8e45c32aaa946587/list.png'
                   alt="Features split 03"
                   width={528}
                   height={396} />

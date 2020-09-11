@@ -58,8 +58,8 @@ const Cta = ({
               </h3>
           </div>
           <div className="cta-action">
-            <Button id="form" tag="a" color="subdue" wideMobile href="https://cruip.com/">
-              Get started
+            <Button id="form" tag="a" color="subdue" wideMobile href="https://form.typeform.com/to/kPlu3OFn">
+              Fill out the intake form
                     </Button>
           </div>
         </div>
