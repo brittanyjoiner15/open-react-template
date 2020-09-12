@@ -88,7 +88,7 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
+                src='https://trello-attachments.s3.amazonaws.com/5f5adf1ac079cd2374a402b3/5f5af1628db6ac341351d618/a8c1062f20490f969277cb56f080e7b4/chris.png'
                 alt="Hero"
                 width={896}
                 height={504} />
